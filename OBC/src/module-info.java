@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author ufox
+ * @author JoseAlz
  *
  */
 module OBC {
