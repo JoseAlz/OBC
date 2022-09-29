@@ -6,7 +6,7 @@ public class Dialogo {
 	
 	public static void main(String []args) {
 		
-		JOptionPane.showMessageDialog(null, "Bienvenido a Java 2022!!!");
+		JOptionPane.showMessageDialog(null, "Bienvenido a Java 2022!!");
 	}
 
 }
