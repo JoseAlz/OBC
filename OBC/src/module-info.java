@@ -6,4 +6,5 @@
  *
  */
 module OBC {
+	requires java.desktop;
 }
