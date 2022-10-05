@@ -73,7 +73,7 @@ public class Numeros {
 		switch(valor){
 		case 1:
 			estacion = "Otoño";
-			break;
+			break;//sale del switch
 		case 2:
 			estacion  = "Invierno";
 			break;
