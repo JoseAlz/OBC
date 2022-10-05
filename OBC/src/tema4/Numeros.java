@@ -55,6 +55,7 @@ public class Numeros {
 		 * incrementando en 1 su valor cada vez que se ejecute y deberá mostrarse por
 		 * pantalla.
 		 */
+		
 		var numeroFor = 0;
 		for (; numeroFor < 3; numeroFor++) {
 			System.out.println("El valor de numeroFor es: " + numeroFor);
